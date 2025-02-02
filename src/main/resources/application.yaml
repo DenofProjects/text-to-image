@@ -1,0 +1,19 @@
+spring:
+  ai:
+    stabilityai:
+      image:
+        enabled: true
+#        base-url: "api.stability.ai/v1"
+        api-key: "sk-ROtPEyTac8Dyiu4OAFpAkeIbloeR5NZK4RUF4UNOatAyohvk"
+        option:
+          n: 1
+#          model: "stable-diffusion-v1-6"
+#          width: 512
+#          height: 512
+#          responseFormat: "-"
+#          cfg_scale: 7
+#          clip_guidance_preset: "NONE"
+#          sampler: "-"
+#          seed: 0
+#          steps: 30
+#          style_preset: "-"
